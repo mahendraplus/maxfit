@@ -50,7 +50,7 @@ The data flow diagram illustrates the flow of information within the MaxFit app.
    - The app guides users through the workout routine.
 
 ## Diagram
-![MaxFit App Data Flow Diagram](Files/DFD.png)
+![MaxFit App Data Flow Diagram](Files/dfd.png)
 
 # MaxFit App Data Structure Explanation
 
