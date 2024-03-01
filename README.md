@@ -96,12 +96,12 @@ MaxFit app is a creation of the talented developers:
 - **Mahendra Gahelot (MAX):** Lead developer with a passion for creating user-friendly applications.
 - **Mahir Jansari:** Frontend specialist ensuring a seamless and visually appealing user experience.
 - **Jainil Panchal:** Backend genius responsible for the robust functionality of MaxFit.
-
 ## Join the Fitness Revolution
 
 Download MaxFit today and embark on a transformative journey. Whether you aim to build strength, enhance flexibility, or simply live a healthier lifestyle, MaxFit is your companion.
 
-[Get Started](#)
+[Get Started](https://github.com/mahendraplus/Max-Fit/releases/download/com.maxfit.companion_%231_1.2.apk/com.maxfit.companion_.1_1.2.apk)
+
 
 ---
 
