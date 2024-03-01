@@ -18,6 +18,10 @@ Embark on a transformative fitness journey with MaxFit, your cutting-edge gym ap
 ## Why Choose MaxFit?
 
 MaxFit is more than just an app; it's a lifestyle. Join a community that thrives on inclusivity, motivation, and results.
+## App Screenshots
+
+![App Screenshot 1](maxfit.png)
+
 
 ## Technical Details
 
@@ -80,13 +84,6 @@ This structure allows for a comprehensive representation of each exercise within
 
 To enhance user experience, MaxFit utilizes Google Firebase for secure and convenient app login. Users can log in seamlessly using their Google accounts, ensuring a hassle-free onboarding process.
 
-
-## App Screenshots
-
-![App Screenshot 1](Files/1.png)
-![App Screenshot 2](Files/2.png)
-![App Screenshot 3](Files/3.png)
-![App Screenshot 4](Files/4.png)
 
 ## Development Journey
 
