@@ -21,7 +21,7 @@ MaxFit is more than just an app; it's a lifestyle. Join a community that thrives
 
 ## Technical Details
 
-Built using the latest technologies, MaxFit runs seamlessly on devices with at least 512MB RAM and Android 4.1 or later.
+MaxFit is crafted with cutting-edge technologies, ensuring smooth performance on devices with a minimum of 512MB RAM and Android 4.1 or later. It's built with Java and developed using Android Studio for optimal functionality.
 
 # MaxFit App Data Flow Diagram
 
