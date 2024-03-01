@@ -100,7 +100,7 @@ MaxFit app is a creation of the talented developers:
 
 Download MaxFit today and embark on a transformative journey. Whether you aim to build strength, enhance flexibility, or simply live a healthier lifestyle, MaxFit is your companion.
 
-[Get Started](https://github.com/mahendraplus/Max-Fit/releases/download/com.maxfit.companion_%231_1.2.apk/com.maxfit.companion_.1_1.2.apk)
+[Get Started](https://github.com/mahendraplus/Max-Fit/releases/download/com.maxfit.companion_%231_1.2.apk/maxfit-v1.1.2.apk)
 
 
 ---
