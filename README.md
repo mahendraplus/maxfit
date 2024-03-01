@@ -23,6 +23,35 @@ MaxFit is more than just an app; it's a lifestyle. Join a community that thrives
 
 Built using the latest technologies, MaxFit runs seamlessly on devices with at least 512MB RAM and Android 4.1 or later.
 
+# MaxFit App Data Flow Diagram
+
+The data flow diagram illustrates the flow of information within the MaxFit app. Here are the main components:
+
+- **User:** Represents the app user interacting with the system.
+- **Google Login:** Signifies the user authentication process using Google Firebase for a secure login experience.
+- **Exercise Data:** Denotes the data related to various exercises stored in the app's database.
+- **App Interface:** Represents the user interface where users interact with the app, view exercises, and perform actions.
+
+## Data Flow
+
+1. **User Login:**
+   - The user initiates the login process by interacting with the app interface.
+   - Google Login facilitates secure authentication through Firebase.
+
+2. **Exercise Retrieval:**
+   - Once logged in, the app retrieves exercise data from the database.
+   - This data includes exercise names, captions, durations, steps, benefits, and image URLs.
+
+3. **Displaying Exercises:**
+   - The app interface displays the retrieved exercise data, allowing users to browse and select exercises.
+
+4. **Performing Exercises:**
+   - Users can access detailed instructions (steps) for each exercise.
+   - The app guides users through the workout routine.
+
+## Diagram
+![MaxFit App Data Flow Diagram](Files/DFD.png)
+
 # MaxFit App Data Structure Explanation
 
 The data structure for an exercise entry in the MaxFit app is represented as a JSON object with the following attributes:
