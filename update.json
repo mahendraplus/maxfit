@@ -1,9 +1,7 @@
 {
-"update":"1.1.2",
-"release":"04/03/2024",
-"title":"New Update",
-"description":"
-- Resolved pesky bugs for a smoother experience 🐞
-- Introducing exciting new exercises to elevate your workout routine! 🏋️‍♂️ Stay fit and healthy with MaxFit. Update now!",
-"link":""
+  "update": "1.1.2",
+  "release": "04/03/2024",
+  "title": "New Update",
+  "description": "- Resolved pesky bugs for a smoother experience 🐞\n- Introducing exciting new exercises to elevate your workout routine! 🏋️‍♂️\n- Stay fit and healthy with MaxFit. Update now!",
+  "link": ""
 }
