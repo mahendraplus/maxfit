@@ -1,6 +1,4 @@
-# MaxFit Gym App
-
-## Welcome to MaxFit Gym App
+# Welcome to MaxFit Gym App
 
 Embark on a transformative fitness journey with MaxFit, your cutting-edge gym app developed by students of Sarvajanik BCA and PGDCA College in Mehsana, Gujarat.
 
