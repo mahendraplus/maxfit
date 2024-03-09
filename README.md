@@ -1,8 +1,8 @@
-# Welcome to MaxFit Gym App
+# Maxfit workout application 🔥
 
 Embark on a transformative fitness journey with MaxFit, your cutting-edge gym app developed by students of Sarvajanik BCA and PGDCA College in Mehsana, Gujarat.
 
-# App Logo
+## App Logo
 
 ![MaxFit App Logo](Files/logo.png)
 
@@ -25,7 +25,7 @@ MaxFit is more than just an app; it's a lifestyle. Join a community that thrives
 
 MaxFit is crafted with cutting-edge technologies, ensuring smooth performance on devices with a minimum of 512MB RAM and Android 4.1 or later. It's built with Java and developed using Android Studio for optimal functionality.
 
-# MaxFit App Data Flow Diagram
+## MaxFit App Data Flow Diagram
 
 The data flow diagram illustrates the flow of information within the MaxFit app. Here are the main components:
 
@@ -54,7 +54,7 @@ The data flow diagram illustrates the flow of information within the MaxFit app.
 ## Diagram
 ![MaxFit App Data Flow Diagram](Files/dfd.png)
 
-# MaxFit App Data Structure Explanation
+## MaxFit App Data Structure Explanation
 
 The data structure for an exercise entry in the MaxFit app is represented as a JSON object with the following attributes:
 
@@ -78,7 +78,7 @@ Example:
 ```
 This structure allows for a comprehensive representation of each exercise within the MaxFit app, including essential details and visual aids.
 
-# App Login with Google
+## App Login with Google
 
 To enhance user experience, MaxFit utilizes Google Firebase for secure and convenient app login. Users can log in seamlessly using their Google accounts, ensuring a hassle-free onboarding process.
 
