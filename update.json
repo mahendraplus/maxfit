@@ -1,7 +1,10 @@
 {
-  "update": "1.1.1",
-  "release": "04/03/2024",
-  "title": "New Update",
+  "title": "New Update Available",
+  "massage":"We're excited to announce the release of MaxFit version 1.1.3! This update brings several improvements and bug fixes to enhance your workout experience.",
+  "version": "1.1.3",
+  "essential":"true",
+  "release": "15-03-2024",
+  "link": "https://mahendraplus.github.io/maxfit",
   "description": "- Resolved pesky bugs for a smoother experience 🐞\n- Introducing exciting new exercises to elevate your workout routine! 🏋️‍♂️\n- Stay fit and healthy with MaxFit. Update now!",
-  "link": "https://github.com/mahendraplus/Max-Fit/releases/download/com.maxfit.companion_%231_1.2.apk/maxfit-v1.1.2.apk"
+  "ban":false"
 }
